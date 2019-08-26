@@ -2,7 +2,7 @@
 Simple task queue using Zero MQ
 
 
-##How it works:
+## How it works:
 
 Client  ===> Server
 zmq.PUSH ==> zmq.PULL
